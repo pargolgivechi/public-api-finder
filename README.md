@@ -1,4 +1,4 @@
-# dtt-test-project
+# Public API Finder
 
 ## Project setup
 ```
