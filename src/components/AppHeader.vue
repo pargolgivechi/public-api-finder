@@ -83,8 +83,8 @@ $active-color: #42b983;
       }
       .logo-img {
         right: -10px;
-        width: 45px;
-        top: -13px;
+        width: 30px;
+        top: -8px;
       }
     }
   }
