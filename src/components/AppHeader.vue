@@ -46,9 +46,9 @@ $active-color: #42b983;
       }
       .logo-img {
         position: absolute;
-        top: -20px;
-        right: 163px;
-        width: 55px;
+        top: -8px;
+        right: 150px;
+        width: 30px;
       }
       span {
         padding-right: 15px;
