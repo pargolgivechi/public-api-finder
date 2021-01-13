@@ -47,7 +47,7 @@
             </div>
         </div>
         <div class="footer-2">
-            Copyright © {{ new Date().getFullYear() }} : Pargol Givehchi - DTT Front-End Test Project
+            Copyright © {{ new Date().getFullYear() }} : Pargol Givehchi - Public API Finder
         </div>
     </div>
   </footer>
