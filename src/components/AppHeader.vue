@@ -4,8 +4,8 @@
         <router-link to="/">Home<span>|</span></router-link>
         <router-link to="/categories">Categories<span>|</span></router-link>
         <router-link to="/random">Random</router-link>
-        <img class="logo-img" alt="DTT logo" src="../assets/dtt-logo.png">
-        <span class="logo-span">DTT Front-End Test</span>
+        <img class="logo-img" alt="Vue-logo" src="../assets/vue-logo.png">
+        <span class="logo-span">Public API Finder</span>
     </nav>
   </div>
 </template>
